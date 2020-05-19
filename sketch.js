@@ -11,9 +11,9 @@ car2=createSprite(400,250,80,30);
   car3.shapeColor="white"; 
   wall1=createSprite(100,100,40,70);
   wall1.shapeColor="white";
-  wall2.createSprite(100,250,40,70);
+  wall2=createSprite(100,250,40,70);
   wall2.shapeColor="white";
-  wall3.createSprite(100,380,40,70);
+  wall3=createSprite(100,380,40,70);
   wall3.shapeColor="white";
 }
 
